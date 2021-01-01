@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(pink,lavender,cyan);
+    text-align: center;
+}
+h1{
+    color: darkviolet;
+}
+h2{
+    color: darkseagreen;
+}
+.images{
+    width: 250px;
+    height: 200px;
+}
